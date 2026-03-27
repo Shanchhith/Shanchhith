@@ -54,12 +54,4 @@ Python · R · Stata · LaTeX · XGBoost · scikit-learn · DiD · PSM · IV · 
 
 ---
 
-## Currently
-
-- World Bank HRH project · multi-state health systems data · IIMA
-- Replicating Kevin Lee's LLM-based demand estimation paper (LoRA + IV pipeline)
-- Targeting Fall 2027 PhD programs in Quantitative Marketing & Business Economics
-
----
-
 Email: shanchhithsingh@gmail.com · GitHub: github.com/Shanchhith
