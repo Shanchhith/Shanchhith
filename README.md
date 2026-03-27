@@ -24,8 +24,8 @@ I work at the intersection of applied econometrics, machine learning, and policy
 | **Debt Collection Regulation** | Difference-in-differences, firm-level call data | Univ. of Missouri |
 | **Model Diversity & Product Success** | Synthetic image corpus, Qualtrics/Prolific RCT | HBS / Univ. of Missouri |
 | **Ad Transparency & Engagement** | Geocoding (QGIS), election data, Python pipelines | Notre Dame / Univ. of Missouri |
-| **Revealed Preferences in Marriage Market** | Structural estimation, OCR + LLM pipeline | IISER Bhopal |
-| **Heat Stress & Neonatal Mortality** | Panel data, climate econometrics | IISER Bhopal |
+| **Revealed Preferences in Marriage Market** | Structural estimation, OCR + LLM pipeline | IIMA  |
+| **Heat Stress & Neonatal Mortality** | Panel data, climate econometrics | IIMA  |
 | **Maternal Breastfeeding RCT** | Multi-district staggered endline, ICT intervention | IIMA / NHM |
 | **HRH Capacity Surveys** | 7-state hospital surveys, mixed-methods synthesis | World Bank / IIMA |
 
